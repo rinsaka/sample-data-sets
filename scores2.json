@@ -1,0 +1,18 @@
+{
+  "Tanaka": {
+      "English": 50,
+      "Mathematics": 70
+  },
+  "Sato": {
+      "English": 60,
+      "Mathematics": 60
+  },
+  "Watanabe": {
+      "English": 30,
+      "Mathematics": 80
+  },
+  "Takahashi": {
+      "English": 80,
+      "Mathematics": 90
+  }
+}
