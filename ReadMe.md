@@ -42,7 +42,7 @@
 - カーネル密度推定のためのサンプルデータ
 - [https://rinsaka.com/python/kde.html](https://rinsaka.com/python/kde.html)
 
-## lr.csv
+## [lr.csv](https://github.com/rinsaka/sample-data-sets/blob/master/lr.csv)
 - 線形回帰モデルのためのサンプルデータ
 - [https://rinsaka.com/python/linear-regression/index.html](https://rinsaka.com/python/linear-regression/index.html)
 
