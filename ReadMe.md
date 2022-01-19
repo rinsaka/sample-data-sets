@@ -2,10 +2,10 @@
 - このリポジトリに収録されているデータは Python 入門等で利用可能できるデータです．
 - 実際のデータと演習のために生成されたデータの両方が混在しています．
 
-## 電子機器販売業者の受注データ (machine-sales.csv など)
+## 電子機器販売業者の受注データ ([machine-sales.csv](https://github.com/rinsaka/sample-data-sets/blob/master/machine-sales.csv) など)
 - Pandas のグループ化とピボットテーブル，結合のためのサンプルデータ
 - [https://rinsaka.com/python/pandas/12-groupby-pivot.html](https://rinsaka.com/python/pandas/12-groupby-pivot.html)
-1. machine-sales.csv
+1. [machine-sales.csv](https://github.com/rinsaka/sample-data-sets/blob/master/machine-sales.csv)
      - ピボットテーブルによる分析などを行うためのデータ
 1. machine-sales-utf8.csv
      - machine-sales.csv の支店名や営業担当者名に漢字を使用 (UTF-8)
