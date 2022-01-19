@@ -1,5 +1,5 @@
 # サンプルデータ集
-- このリポジトリに収録されているデータは Python 入門等で利用可能できるデータです．
+- このリポジトリに収録されているデータは [Python 入門](https://rinsaka.com/python/index.html)等で利用可能できるデータです．
 - 実際のデータと演習のために生成されたデータの両方が混在しています．
 
 ## 電子機器販売業者の受注データ ([machine-sales.csv](https://github.com/rinsaka/sample-data-sets/blob/master/machine-sales.csv) など)
