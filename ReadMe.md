@@ -66,3 +66,8 @@
 ## [names.json](https://github.com/rinsaka/sample-data-sets/blob/master/names.json), [novels.json](https://github.com/rinsaka/sample-data-sets/blob/master/novels.json), [scores.json](https://github.com/rinsaka/sample-data-sets/blob/master/scores.json), [scores2.json](https://github.com/rinsaka/sample-data-sets/blob/master/scores2.json), [scores3.json](https://github.com/rinsaka/sample-data-sets/blob/master/scores3.json)
 - JSONファイルの読み書きに関するサンプルデータ
 - [https://rinsaka.com/python/file/04-01-json.html](https://rinsaka.com/python/file/04-01-json.html)
+
+
+## [tegaki-number.zip](https://github.com/rinsaka/sample-data-sets/blob/master/tegaki-number.zip)
+- 手書き数字の認識のためのサンプルデータ
+- [https://rinsaka.com/python/tegaki/index.html](https://rinsaka.com/python/tegaki/index.html)
