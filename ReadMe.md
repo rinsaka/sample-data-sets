@@ -22,6 +22,10 @@
 - 自然言語処理で用いるテキストファイル
 - [https://rinsaka.com/python/nltk/index.html](https://rinsaka.com/python/nltk/index.html)
 
+## [ink_bk.png](https://github.com/rinsaka/sample-data-sets/blob/master/ink_bk.png)
+- ワードクラウドのマスク用白黒画像データ
+- [https://rinsaka.com/python/nltk/05-wordcloud.html](https://rinsaka.com/python/nltk/05-wordcloud.html)
+
 ## [clustering-sample.csv](https://github.com/rinsaka/sample-data-sets/blob/master/clustering-sample.csv)
 - クラスタリング (k-近傍法) などで利用する2次元データ
 - [https://rinsaka.com/python/clustering.html](https://rinsaka.com/python/clustering.html)
