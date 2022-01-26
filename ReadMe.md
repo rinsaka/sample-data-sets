@@ -26,9 +26,10 @@
 - ワードクラウドのマスク用白黒画像データ
 - [https://rinsaka.com/python/nltk/05-wordcloud.html](https://rinsaka.com/python/nltk/05-wordcloud.html)
 
-## [clustering-sample.csv](https://github.com/rinsaka/sample-data-sets/blob/master/clustering-sample.csv)
+## [clustering-sample.csv](https://github.com/rinsaka/sample-data-sets/blob/master/clustering-sample.csv)，[clustering-sample-notitle.csv](https://github.com/rinsaka/sample-data-sets/blob/master/clustering-sample-notitle.csv)
 - クラスタリング (k-近傍法) などで利用する2次元データ
 - [https://rinsaka.com/python/clustering.html](https://rinsaka.com/python/clustering.html)
+- clustering-sample.csv は先頭行に列名があり，clustering-sample-notitle.csv は先頭行に列名がない
 
 ## [excel.xlsx](https://github.com/rinsaka/sample-data-sets/blob/master/excel.xlsx)
 - 表計算 (Excel) の基礎実習
