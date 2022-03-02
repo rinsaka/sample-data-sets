@@ -76,3 +76,6 @@
 ## [tegaki-number.zip](https://github.com/rinsaka/sample-data-sets/blob/master/tegaki-number.zip)
 - 手書き数字の認識のためのサンプルデータ
 - [https://rinsaka.com/python/tegaki/index.html](https://rinsaka.com/python/tegaki/index.html)
+
+## hyaku.json
+- 百人一首のデータ
