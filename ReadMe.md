@@ -80,4 +80,6 @@
 ## 百人一首のデータ
 - [hyaku.json](https://github.com/rinsaka/sample-data-sets/blob/master/hyaku.json) : JSON形式で文字コードは UTF-8
 - [hyaku-utf-8-csv](https://github.com/rinsaka/sample-data-sets/blob/master/hyaku-utf-8.csv) : カンマ区切りテキストデータで文字コードは UTF-8
+  - [https://rinsaka.com/python/hyaku/index.html](https://rinsaka.com/python/hyaku/index.html)
 - [hyaku-sjis.csv](https://github.com/rinsaka/sample-data-sets/blob/master/hyaku-sjis.csv) : カンマ区切りテキストデータで文字コードは Shift-JIS（10番目の歌人「蟬丸」は「蝉丸」で代用していることに注意してください）
+
