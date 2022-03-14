@@ -84,5 +84,5 @@
 - [hyaku-sjis.csv](https://github.com/rinsaka/sample-data-sets/blob/master/hyaku-sjis.csv) : カンマ区切りテキストデータで文字コードは Shift-JIS（10番目の歌人「蟬丸」は「蝉丸」で代用していることに注意してください）
 
 ## 協調フィルタリングのためのデータ
-- collaborative_filtering_matrix.csv : 行列形式の評価データ
-- collaborative_filtering_items.csv, collaborative_filtering_customers.csv, collaborative_filtering_ratings.csv : 商品テーブル，顧客テーブル，評価テーブルのデータです．この3つを結合すると行列形式の評価データ (collaborative_filtering_matrix.csv) を生成できます．
+- [collaborative_filtering_matrix.csv](https://github.com/rinsaka/sample-data-sets/blob/master/collaborative_filtering_matrix.csv) : 行列形式の評価データ
+- [collaborative_filtering_items.csv](https://github.com/rinsaka/sample-data-sets/blob/master/collaborative_filtering_items.csv), [collaborative_filtering_customers.csv](https://github.com/rinsaka/sample-data-sets/blob/master/collaborative_filtering_customers.csv), [collaborative_filtering_ratings.csv](https://github.com/rinsaka/sample-data-sets/blob/master/collaborative_filtering_ratings.csv) : 商品テーブル，顧客テーブル，評価テーブルのデータです．この3つを結合すると行列形式の評価データ ([collaborative_filtering_matrix.csv](https://github.com/rinsaka/sample-data-sets/blob/master/collaborative_filtering_matrix.csv)) を生成できます．
