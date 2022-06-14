@@ -68,6 +68,9 @@
 - [https://rinsaka.com/python/ols.html](https://rinsaka.com/python/ols.html)
 - [https://rinsaka.com/python/ols-sklearn.html](https://rinsaka.com/python/ols-sklearn.html)
 
+## [corrcoef-sample.csv](https://github.com/rinsaka/sample-data-sets/blob/master/corrcoef-sample.csv)
+- 相関分析，複数のグラフ（散布図）を作成するためのサンプルデータ
+
 ## [names.json](https://github.com/rinsaka/sample-data-sets/blob/master/names.json), [novels.json](https://github.com/rinsaka/sample-data-sets/blob/master/novels.json), [scores.json](https://github.com/rinsaka/sample-data-sets/blob/master/scores.json), [scores2.json](https://github.com/rinsaka/sample-data-sets/blob/master/scores2.json), [scores3.json](https://github.com/rinsaka/sample-data-sets/blob/master/scores3.json)
 - JSONファイルの読み書きに関するサンプルデータ
 - [https://rinsaka.com/python/file/04-01-json.html](https://rinsaka.com/python/file/04-01-json.html)
