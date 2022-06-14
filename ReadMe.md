@@ -70,6 +70,9 @@
 
 ## [corrcoef-sample.csv](https://github.com/rinsaka/sample-data-sets/blob/master/corrcoef-sample.csv)
 - 相関分析，複数のグラフ（散布図）を作成するためのサンプルデータ
+- データ数 100
+- x列は 平均5, 標準偏差 2 の一様乱数
+- その他の列は x との相関係数が -1.0 から +1.0 になるように生成したもの
 
 ## [names.json](https://github.com/rinsaka/sample-data-sets/blob/master/names.json), [novels.json](https://github.com/rinsaka/sample-data-sets/blob/master/novels.json), [scores.json](https://github.com/rinsaka/sample-data-sets/blob/master/scores.json), [scores2.json](https://github.com/rinsaka/sample-data-sets/blob/master/scores2.json), [scores3.json](https://github.com/rinsaka/sample-data-sets/blob/master/scores3.json)
 - JSONファイルの読み書きに関するサンプルデータ
