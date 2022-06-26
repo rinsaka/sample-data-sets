@@ -97,3 +97,13 @@
   - 行列形式の評価データ
 - [collaborative_filtering_items.csv](https://github.com/rinsaka/sample-data-sets/blob/master/collaborative_filtering_items.csv), [collaborative_filtering_customers.csv](https://github.com/rinsaka/sample-data-sets/blob/master/collaborative_filtering_customers.csv), [collaborative_filtering_ratings.csv](https://github.com/rinsaka/sample-data-sets/blob/master/collaborative_filtering_ratings.csv)
   - 商品テーブル，顧客テーブル，評価テーブルのデータです．この3つを結合すると行列形式の評価データ ([collaborative_filtering_matrix.csv](https://github.com/rinsaka/sample-data-sets/blob/master/collaborative_filtering_matrix.csv)) を生成できます．
+
+## Twitter のツイート数データ
+- [tweet_20140617_hour.csv](https://github.com/rinsaka/sample-data-sets/blob/master/tweet_20140617_hour.csv)
+  - 2014年6月17日の16時から8月7日12時までの1時間ごとの日本語ツイート数（全ツイートの1%を取得した結果を集計）
+- [tweet_20140624_minute.csv](https://github.com/rinsaka/sample-data-sets/blob/master/tweet_20140624_minute.csv)
+  - 2014年6月24日の5時から8時までの1分ごとの日本語ツイート数（全ツイートの1%を取得した結果を集計）
+- [tweet_20140617_usj_hour.csv](https://github.com/rinsaka/sample-data-sets/blob/master/tweet_20140617_usj_hour.csv)
+  - 2014年6月17日15時から8月6日13時までの1時間ごとのUSJ関連ツイート数
+- [tweet_20140618_usj_day.csv](https://github.com/rinsaka/sample-data-sets/blob/master/tweet_20140618_usj_day.csv)
+  - 2014年6月18日から8月6日までの1日ごとのUSJ関連ツイート数
