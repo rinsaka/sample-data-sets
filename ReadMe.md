@@ -109,7 +109,8 @@
   - 2014年6月18日から8月6日までの1日ごとのUSJ関連ツイート数
 
 ## 画像内文字認識とPDFからの文字列抽出用テストデータ
-- [tesseract_data](https://github.com/rinsaka/sample-data-sets/tree/master/tesseract_data)
+- [https://rinsaka.com/python/tesseract/index.html](https://rinsaka.com/python/tesseract/index.html)
+- [tesseract_data フォルダ](https://github.com/rinsaka/sample-data-sets/tree/master/tesseract_data)
 - [tesseract_data.zip](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data.zip)
   - 上の tesseract_data フォルダのファイルを圧縮したもの
 - [tesseract_data/en_1.docx](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data/en_1.docx), [tesseract_data/en_1.pdf](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data/en_1.pdf)
