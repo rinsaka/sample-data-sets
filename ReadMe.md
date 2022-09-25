@@ -128,3 +128,10 @@
   - PDFから文字列のコピーが可能
 - [tesseract_data/ja_1_img.png](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data/ja_1_img.png), [tesseract_data/ja_1_img_trim.png](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data/ja_1_img_trim.png), [tesseract_data/ja_1_img.pdf](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data/ja_1_img.pdf)
   - [tesseract_data/ja_1.docx](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data/ja_1.docx) を画像に変換したもの（スクリーンショット）
+
+## 物体検出のための画像データ
+- [YOLOv5 で物体検出をしてみよう https://rinsaka.com/python/yolov5/index.html](https://rinsaka.com/python/yolov5/index.html)
+- [yolo_images フォルダ](https://github.com/rinsaka/sample-data-sets/tree/master/yolo_images)
+  - 20枚の写真データ
+- [yolo_images.zip](https://github.com/rinsaka/sample-data-sets/blob/master/yolo_images.zip)
+  - 20枚の写真データをzip形式に圧縮したもの
