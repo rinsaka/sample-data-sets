@@ -107,3 +107,23 @@
   - 2014年6月17日15時から8月6日13時までの1時間ごとのUSJ関連ツイート数
 - [tweet_20140618_usj_day.csv](https://github.com/rinsaka/sample-data-sets/blob/master/tweet_20140618_usj_day.csv)
   - 2014年6月18日から8月6日までの1日ごとのUSJ関連ツイート数
+
+## 画像内文字認識とPDFからの文字列抽出用テストデータ
+- [tesseract_data](https://github.com/rinsaka/sample-data-sets/tree/master/tesseract_data)
+- [tesseract_data.zip](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data.zip)
+  - 上の tesseract_data フォルダのファイルを圧縮したもの
+- [tesseract_data/en_1.docx](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data/en_1.docx), [tesseract_data/en_1.pdf](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data/en_1.pdf)
+  - 英文のWordファイル（1ページ）とそれをPDFに変換したもの
+  - PDFから文字列のコピーが可能
+- [tesseract_data/en_1_img.png](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data/en_1_img.png), [tesseract_data/en_1_img_trim.png](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data/en_1_img_trim.png), [tesseract_data/en_1_img.pdf](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data/en_1_img.pdf)
+  - [tesseract_data/en_1.docx](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data/en_1.docx) を画像に変換したもの（スクリーンショット）
+- [tesseract_data/en_2.docx](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data/en_2.docx), [tesseract_data/en_2.pdf](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data/en_2.pdf)
+  - 英文のWordファイル（合計2ページ）とそれをPDFに変換したもの
+  - PDFから文字列のコピーが可能
+- [tesseract_data/en_2_img1.png](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data/en_2_img1.png), [tesseract_data/en_2_img1_trim.png](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data/en_2_img1_trim.png), [tesseract_data/en_2_img2.png](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data/en_2_img2.png), [tesseract_data/en_2_img2_trim.png](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data/en_2_img2_trim.png), [tesseract_data/en_2_img.pdf](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data/en_2_img.pdf)
+  - [tesseract_data/en_2.docx](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data/en_2.docx) をページごとに画像に変換したもの（スクリーンショット）
+- [tesseract_data/ja_1.docx](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data/ja_1.docx), [tesseract_data/ja_1.pdf](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data/ja_1.pdf)
+  - 日本語のWordファイル（1ページ）とそれをPDFに変換したもの
+  - PDFから文字列のコピーが可能
+- [tesseract_data/ja_1_img.png](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data/ja_1_img.png), [tesseract_data/ja_1_img_trim.png](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data/ja_1_img_trim.png), [tesseract_data/ja_1_img.pdf](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data/ja_1_img.pdf)
+  - [tesseract_data/ja_1.docx](https://github.com/rinsaka/sample-data-sets/blob/master/tesseract_data/ja_1.docx) を画像に変換したもの（スクリーンショット）
