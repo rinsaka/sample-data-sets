@@ -138,6 +138,7 @@
 
 ## db.sqlite
 - SQLite データベースのサンプル
+  - staffs テーブルがある
   - staffs テーブルは「id」「name」「age」「department」の列からなる
 ~~~
 % sqlite3 db.sqlite
