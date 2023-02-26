@@ -136,4 +136,34 @@
 - [yolo_images.zip](https://github.com/rinsaka/sample-data-sets/blob/master/yolo_images.zip)
   - 20枚の写真データをzip形式に圧縮したもの
 
+## staffs.sqlite
+- SQLite データベースのサンプル
+  - staffs テーブルは「id」「name」「age」「department」の列からなる
+~~~
+% sqlite3 staffs.sqlite
+SQLite version 3.37.0 2021-12-09 01:34:53
+Enter ".help" for usage hints.
+sqlite> .tables
+staffs
+sqlite> .schema staffs
+CREATE TABLE staffs (
+    id INT NOT NULL,
+    name VARCHAR(32),
+    age INT,
+    department VARCHAR(32),
+    PRIMARY KEY(id)
+);
+sqlite> .headers ON
+sqlite> SELECT * FROM staffs;
+id|name|age|department
+1|藤川|23|営業部
+2|藤本|35|人事部
+3|藤枝|32|製造部
+4|藤原|48|営業部
+5|藤森|44|人事部
+6|藤平|28|製造部
+7|藤谷|38|営業部
+sqlite> .exit
+%
+~~~
 
