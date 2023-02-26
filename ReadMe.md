@@ -136,11 +136,11 @@
 - [yolo_images.zip](https://github.com/rinsaka/sample-data-sets/blob/master/yolo_images.zip)
   - 20枚の写真データをzip形式に圧縮したもの
 
-## staffs.sqlite
+## db.sqlite
 - SQLite データベースのサンプル
   - staffs テーブルは「id」「name」「age」「department」の列からなる
 ~~~
-% sqlite3 staffs.sqlite
+% sqlite3 db.sqlite
 SQLite version 3.37.0 2021-12-09 01:34:53
 Enter ".help" for usage hints.
 sqlite> .tables
