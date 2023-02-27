@@ -138,6 +138,7 @@
 
 ## db.sqlite
 - SQLite データベースのサンプル
+  - [https://rinsaka.com/python/db/index.html](https://rinsaka.com/python/db/index.html)
   - staffs テーブルがある
   - staffs テーブルは「id」「name」「age」「department」の列からなる
 ~~~
