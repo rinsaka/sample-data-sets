@@ -17,6 +17,8 @@
 1. [machine-sales-sales.csv](https://github.com/rinsaka/sample-data-sets/blob/master/machine-sales-sales.csv), [machine-sales-branch-id.csv](https://github.com/rinsaka/sample-data-sets/blob/master/machine-sales-branch-id.csv), [machine-sales-staff-id.csv](https://github.com/rinsaka/sample-data-sets/blob/master/machine-sales-staff-id.csv)
      - machine-sales.csv を正規化して3つのファイルに分割したもの
      - 3つのファイルの主キーがすべて id になっているため，結合時には系列名を明示的に指定する必要がある
+1. [machine-salesフォルダ](https://github.com/rinsaka/sample-data-sets/blob/master/machine-sales)
+     - PowerQueryのための分割データ
 
 ## [corpora.zip](https://github.com/rinsaka/sample-data-sets/blob/master/corpora.zip)
 - 自然言語処理で用いるテキストファイル
