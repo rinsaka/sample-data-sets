@@ -63,9 +63,9 @@
 - リッジ回帰のための学習データとテストデータ
 - [https://rinsaka.com/python/ridge/index.html](https://rinsaka.com/python/ridge/index.html)
 
-## [store-space-sales.csv](https://github.com/rinsaka/sample-data-sets/blob/master/store-space-sales.csv), [store-space-sales.txt](https://github.com/rinsaka/sample-data-sets/blob/master/store-space-sales.txt), [store-space-sales-tab.txt](https://github.com/rinsaka/sample-data-sets/blob/master/store-space-sales-tab.txt)
+## [store-space-sales.csv](https://github.com/rinsaka/sample-data-sets/blob/master/store-space-sales.csv), [store-space-sales.txt](https://github.com/rinsaka/sample-data-sets/blob/master/store-space-sales.txt), [store-space-sales-tab.txt](https://github.com/rinsaka/sample-data-sets/blob/master/store-space-sales-tab.txt), [store-space-sales.xlsx](https://github.com/rinsaka/sample-data-sets/blob/master/store-space-sales.xlsx),
 - 相関分析，線形回帰分析のためのサンプルデータ
-  - カンマ区切り以外に，空白区切り，タブ文字区切りのファイルもある
+  - カンマ区切り以外に，空白区切り，タブ文字区切り，Excel形式のファイルもある
 - [https://rinsaka.com/python/corrcoef.html](https://rinsaka.com/python/corrcoef.html)
 - [https://rinsaka.com/python/ols-linregress.html](https://rinsaka.com/python/ols-linregress.html)
 - [https://rinsaka.com/python/ols.html](https://rinsaka.com/python/ols.html)
