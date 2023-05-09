@@ -172,3 +172,6 @@ sqlite> .exit
 %
 ~~~
 
+## sales.sqlite
+-  もうひとつの SQLite データベースのサンプル
+
