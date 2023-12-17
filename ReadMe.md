@@ -139,6 +139,8 @@
 - [yolo_images.zip](https://github.com/rinsaka/sample-data-sets/blob/master/yolo_images.zip)
   - 20枚の写真データをzip形式に圧縮したもの
 
+
+
 ## db.sqlite
 - SQLite データベースのサンプル
   - [https://rinsaka.com/python/db/index.html](https://rinsaka.com/python/db/index.html)
