@@ -28,10 +28,14 @@
 - ワードクラウドのマスク用白黒画像データ
 - [https://rinsaka.com/python/nltk/05-wordcloud.html](https://rinsaka.com/python/nltk/05-wordcloud.html)
 
-## [clustering-sample.csv](https://github.com/rinsaka/sample-data-sets/blob/master/clustering-sample.csv)，[clustering-sample-notitle.csv](https://github.com/rinsaka/sample-data-sets/blob/master/clustering-sample-notitle.csv)
-- クラスタリング (k-近傍法) などで利用する2次元データ
-- [https://rinsaka.com/python/clustering.html](https://rinsaka.com/python/clustering.html)
-- clustering-sample.csv は先頭行に列名があり，clustering-sample-notitle.csv は先頭行に列名がない
+## [clustering-sample.csv](https://github.com/rinsaka/sample-data-sets/blob/master/clustering-sample.csv)，[clustering-sample-notitle.csv](https://github.com/rinsaka/sample-data-sets/blob/master/clustering-sample-notitle.csv)，[clustering-sample-kmeans.csv](https://github.com/rinsaka/sample-data-sets/blob/master/clustering-sample-kmeans.csv)，[clustering-sample-small.csv](https://github.com/rinsaka/sample-data-sets/blob/master/clustering-sample-small.csv)
+- クラスタリング (k-means法や非階層クラスタリング) で利用する2次元データ
+- [k-means による非階層クラスタリングをしてみよう](https://rinsaka.com/python/clustering-kmeans.html)
+
+  - clustering-sample.csv は先頭行に列名があり，clustering-sample-notitle.csv は先頭行に列名がない
+  - clustering-sample-kmeans.csv は k-means 法のアルゴリズムを理解するための小さなサンプルデータ
+- [階層的クラスタリングをしてみよう](https://rinsaka.com/python/clustering-agglomerative.html)
+  - clustering-sample-small.csv は非階層クラスタリングのアルゴリズムを理解するための小さなサンプルデータ
 
 ## [excel.xlsx](https://github.com/rinsaka/sample-data-sets/blob/master/excel.xlsx)
 - 表計算 (Excel) の基礎実習
@@ -176,4 +180,3 @@ sqlite> .exit
 
 ## sales.sqlite
 -  もうひとつの SQLite データベースのサンプル
-
