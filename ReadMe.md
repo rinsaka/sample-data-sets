@@ -181,3 +181,7 @@ sqlite> .exit
 
 ## sales.sqlite
 -  もうひとつの SQLite データベースのサンプル
+
+## 最短路問題のためのサンプルグラフデータ
+- nodes.csv
+- edges.csv
