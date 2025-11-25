@@ -97,7 +97,6 @@
   - [https://rinsaka.com/python/hyaku/index.html](https://rinsaka.com/python/hyaku/index.html)
 - [hyaku-sjis.csv](https://github.com/rinsaka/sample-data-sets/blob/master/hyaku-sjis.csv) : カンマ区切りテキストデータで文字コードは Shift-JIS（10番目の歌人「蟬丸」は「蝉丸」で代用していることに注意してください）
 - [hyaku フォルダ](https://github.com/rinsaka/sample-data-sets/blob/master/hyaku)： Elasticsearch に登録しやすいように歌ごとに100個の json ファイルに分割したデータ
-- [hyaku_data_num フォルダ](https://github.com/rinsaka/sample-data-sets/blob/master/hyaku_data_num)： Elasticsearch に登録しやすいように歌ごとに100個の json ファイルに分割したデータで，さらに `id` 属性ではなく `num` 属性に `u1`, `u2`,...`u100` という値を付与したデータです．この属性を Elasticsearch に登録するために利用できます．
 
 ## 協調フィルタリングのためのデータ
 - 協調フィルタリングによる推薦システムを作ってみよう
